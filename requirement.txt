@@ -1,0 +1,2 @@
+Download rockyou.txt  - https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
+place it in same folder as password_strength_checker.py
