@@ -12,15 +12,15 @@ This is a Python-based password strength checker designed to help users and secu
 
 The tool:
 
-- Flags passwords found in the `rockyou.txt` common password list as very weak.
-- Enforces company-style password requirements:
+- ✅ Flags passwords found in the `rockyou.txt` common password list as very weak.
+- ✅ Enforces company-style password requirements:
   - Minimum length (default 12 characters)
   - At least one uppercase letter
   - At least one lowercase letter
   - At least one digit
   - At least one special character
-- Calculates password entropy to estimate randomness and strength.
-- Provides clear, actionable feedback for improving passwords.
+- ✅ Calculates password entropy to estimate randomness and strength.
+- ✅ Provides clear, actionable feedback for improving passwords.
 
 This is ideal for personal use, cybersecurity training, or as part of a portfolio demonstrating password security awareness.
 
